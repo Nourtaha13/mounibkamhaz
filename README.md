@@ -7,10 +7,10 @@
 
 - HTML/5     - PHP
 - CSS/3      - Python
-- JS/ES6     - Node js
-- Pugjs      - MySQL   
-- SCSS       - SQLite
-- React js   - Mongodb
+- JS/ES6     - MySQL
+- Pugjs      - SQLite   
+- SCSS       
+- React js   
 ```
 ### Follow Me 🤡
 ##### Personal Pages
