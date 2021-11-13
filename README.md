@@ -6,11 +6,11 @@
 [Front-End]  [Back-End]
 
 - HTML/5     - PHP
-- CSS/3      - Python
-- JS/ES6     - MySQL
-- Pugjs      - SQLite   
-- SCSS       
-- React js   
+- CSS/3      - NodeJS
+- JS/ES6     - Python
+- Pugjs      - MySQL   
+- Sass       - SQLite
+- React js   - MongoDB
 ```
 ### Follow Me 🤡
 ##### Personal Pages
